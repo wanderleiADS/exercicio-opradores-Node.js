@@ -1,1 +1,0 @@
-# exercicio-opradores-Node.js
